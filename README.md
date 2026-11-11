@@ -1,1 +1,1 @@
-this repo consist of django project.
+This is my Repository
